@@ -621,7 +621,7 @@ Logs estruturados com correlation ID para rastreamento de requests assíncronos.
 
 ## 📝 Licença
 
-Este projeto foi desenvolvido como solução acadêmica/profissional.
+Este projeto foi desenvolvido para a Global Solution.
 
 ---
 
@@ -654,5 +654,5 @@ Para dúvidas ou sugestões, abra uma issue no repositório.
 
 ---
 
-**Desenvolvido com ❤️ usando Spring Boot e tecnologias modernas**
+**Desenvolvido por Pietro Saccarrão Cougo - RM555839**
 
